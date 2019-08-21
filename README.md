@@ -1,2 +1,2 @@
 # platform-game
-Platform game with unity
+Platform game with Unity 2019.2
